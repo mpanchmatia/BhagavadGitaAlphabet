@@ -1,0 +1,45 @@
+Arjun
+ka, 7.06
+ca, 5.03
+Ta, 2.34
+ta, 27.81
+pa, 15.79
+ya, 39.12
+ha, 2.84
+total, 100.00
+Bhagawan
+ka, 6.96
+ca, 5.94
+Ta, 2.04
+ta, 28.79
+pa, 16.51
+ya, 37.48
+ha, 2.28
+total, 100.00
+Sanjay
+ka, 6.53
+ca, 5.32
+Ta, 3.12
+ta, 25.72
+pa, 16.53
+ya, 39.88
+ha, 2.89
+total, 100.00
+Dhritarashtra
+ka, 14.29
+ca, 7.14
+Ta, 4.76
+ta, 14.29
+pa, 14.29
+ya, 45.24
+ha, 0.00
+total, 100.00
+None
+ka, 15.38
+ca, 0.85
+Ta, 1.71
+ta, 23.93
+pa, 20.51
+ya, 36.75
+ha, 0.85
+total, 100.00
