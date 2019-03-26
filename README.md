@@ -20,6 +20,11 @@ For shake of programming, I added one more dummy speaker
 
 The code is self-explanatory. However, I added few comments, to make it more readable. 
 
+Conclusion
+==========
+
+The relative number of character (percentage) in each group, pronounced by Arjun and Bhagawan are almost same. No comment on other speakers, as their content is very less in Shrimad Bhagavad Gita.
+
 Reference
 =========
 Guru Vani 8.5.13 (8th May 2013) Guruji Sri Sri Ravishankar mentioned in Satsang :
